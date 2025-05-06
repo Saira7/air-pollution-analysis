@@ -62,8 +62,8 @@ Comparisons between models highlight the strengths and weaknesses of each approa
 
 ## Conclusion
 
-    - Feature correlation shows strong relationships among pollutants and weather conditions.
+  - Feature correlation shows strong relationships among pollutants and weather conditions.
 
-    - Random Forest Regressor provided better performance compared to other models.
+  - Random Forest Regressor provided better performance compared to other models.
 
-    - Data visualization revealed temporal patterns in air pollution.
+  - Data visualization revealed temporal patterns in air pollution.
